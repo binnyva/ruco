@@ -199,3 +199,4 @@ App.new
 # Load commands from file.
 # Recent Files.
 # Aliases
+# Font must be in Corier New (Configureable if possible.)
