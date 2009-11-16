@@ -1,0 +1,9 @@
+Ruco
+1.00.A Alpha
+
+An GUI shell to execute ruby code. It has better support for multiline code that traditional terminals.
+
+Needed Modules: ruby-gtk, sqlite3-ruby
+
+Binny V A
+http://binnyva.com/
